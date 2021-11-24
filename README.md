@@ -4,8 +4,8 @@ Burning Zombies is an algorithmically generated NFT collection on the Avalanche 
 
 Burning Zombies offers three critically important benefits: community reflections, fair distribution, and high market potential. **The minting will be available for a week.** While mint is active, there are some restrictions for minters;
 
-	- Minters cannot claim rewards until the end of the burning.
-	- Minters have to hold the tokens until the end of the burning.
+1. Minters cannot claim rewards until the end of the burning.
+2. Minters have to hold the tokens until the end of the burning.
 
 Those restrictions were planned to save the minters' passive income. It prevents sales under the minting price if it's possible to mint. The transfers in the custom marketplace or any other market are disabled during minting. After that, tokens can be tradeable in any market if approval is provided for the token.
 
