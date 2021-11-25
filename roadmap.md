@@ -20,7 +20,7 @@ Nothing can go forever! When minting is finished, there may be zombies which are
 
 If we could reach here, it means all zombies are claimed, and we are safe, but what will we do with them? Slavery! People who have zombies can sell them. Or maybe someone who wants to collect them, they can buy!
 
-### Draw for Burners
+### A Raffle Between Burners
 
 ****:date: **Date: TBA**
 
