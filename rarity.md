@@ -8,7 +8,7 @@ The calculation refers to the average rarity of the trait, and the token rarity 
 
 ![](.gitbook/assets/math.svg)
 
-![](.gitbook/assets/xmath.svg)= token score
+![](.gitbook/assets/xmath.svg)= trait score
 
 ![](.gitbook/assets/n.svg)= trait amount in the collection (revealed)
 
