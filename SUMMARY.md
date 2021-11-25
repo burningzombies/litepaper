@@ -4,5 +4,6 @@
 * [Art](art.md)
 * [Rarity](rarity.md)
 * [Marketplace](marketplace.md)
+* [Roadmap](roadmap.md)
 * [Team](team.md)
 * [Contact](contact.md)
