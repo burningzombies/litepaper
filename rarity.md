@@ -18,17 +18,17 @@ The calculation refers to the average rarity of the trait, and the token rarity 
 
 Rarity labels founded by tokens overall rarity;
 
-**Common:** The zombies which have a score between ![](.gitbook/assets/1.svg) and ![](.gitbook/assets/2.svg)
+****:star:** Common:** The zombies which have a score between ![](.gitbook/assets/1.svg) and ![](.gitbook/assets/2.svg)
 
-**Uncommon:** The zombies which have a score between ![](.gitbook/assets/3.svg) and ![](.gitbook/assets/4.svg)
+****:star: **Uncommon:** The zombies which have a score between ![](.gitbook/assets/3.svg) and ![](.gitbook/assets/4.svg)
 
-**Rare:** The zombies which have a score between ![](.gitbook/assets/5.svg) and ![](.gitbook/assets/6.svg)
+****:star: **Rare:** The zombies which have a score between ![](.gitbook/assets/5.svg) and ![](.gitbook/assets/6.svg)
 
-**Super Rare:** The zombies which have a score between ![](.gitbook/assets/7.svg) and ![](.gitbook/assets/8.svg)
+****:star: **Super Rare:** The zombies which have a score between ![](.gitbook/assets/7.svg) and ![](.gitbook/assets/8.svg)
 
-**Mystic:** The zombies which have a score between ![](.gitbook/assets/9.svg) and ![](.gitbook/assets/10.svg)
+****:star: **Mystic:** The zombies which have a score between ![](.gitbook/assets/9.svg) and ![](.gitbook/assets/10.svg)
 
-**Legendary:** The zombies which have a score between ![](.gitbook/assets/11.svg) and ![](.gitbook/assets/12.svg)
+****:star: **Legendary:** The zombies which have a score between ![](.gitbook/assets/11.svg) and ![](.gitbook/assets/12.svg)
 
 ![Rarity chart (based on minted 3024 tokens)](images/rarity-chart.svg)
 
