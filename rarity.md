@@ -6,30 +6,29 @@ Token rarities come from the accessories assigned to tokens. All accessories use
 
 The calculation refers to the average rarity of the trait, and the token rarity is the sum of trait scores.
 
-<img src="https://render.githubusercontent.com/render/math?math=\Huge x = 1/(n/t)">
+![](.gitbook/assets/math.svg)
 
-<img src="https://render.githubusercontent.com/render/math?math=\Large x">= token score
+![](.gitbook/assets/xmath.svg)= token score
 
-<img src="https://render.githubusercontent.com/render/math?math=\Large n">= trait amount in the collection (revealed)
+![](.gitbook/assets/n.svg)= trait amount in the collection (revealed)
 
-<img src="https://render.githubusercontent.com/render/math?math=\Large t">= total supply
-
+![](.gitbook/assets/t.svg)= total supply
 
 ## Calculation of the Rarity Labels
 
 Rarity labels founded by tokens overall rarity;
 
-**Common:** The zombies which have a score between <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 0"> and <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 54.99">
+**Common:** The zombies which have a score between ![](.gitbook/assets/1.svg) and ![](.gitbook/assets/2.svg)
 
-**Uncommon:** The zombies which have a score between <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 55.0"> and <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 69.99">
+**Uncommon:** The zombies which have a score between ![](.gitbook/assets/3.svg) and ![](.gitbook/assets/4.svg)
 
-**Rare:** The zombies which have a score between <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 70.0"> and <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 81.99">
+**Rare:** The zombies which have a score between ![](.gitbook/assets/5.svg) and ![](.gitbook/assets/6.svg)
 
-**Super Rare:** The zombies which have a score between <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 82.0"> and <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 90.99">
+**Super Rare:** The zombies which have a score between ![](.gitbook/assets/7.svg) and ![](.gitbook/assets/8.svg)
 
-**Mystic:** The zombies which have a score between <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 91.0"> and <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 96.99">
+**Mystic:** The zombies which have a score between ![](.gitbook/assets/9.svg) and ![](.gitbook/assets/10.svg)
 
-**Legendary:** The zombies which have a score between <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 97.0"> and <img src="https://render.githubusercontent.com/render/math?math=\large (n/100) * 100">
+**Legendary:** The zombies which have a score between ![](.gitbook/assets/11.svg) and ![](.gitbook/assets/12.svg)
 
 ![Rarity chart (based on minted 3024 tokens)](images/rarity-chart.svg)
 
