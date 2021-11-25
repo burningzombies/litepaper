@@ -2,7 +2,7 @@
 
 * [General Info](README.md)
 * [Art](art.md)
-* [Marketplace](marketplace.md)
 * [Rarity](rarity.md)
+* [Marketplace](marketplace.md)
 * [Team](team.md)
 * [Contact](contact.md)
