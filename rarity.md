@@ -14,6 +14,8 @@ The calculation refers to the average rarity of the trait, and the token rarity 
 
 ![](.gitbook/assets/t.svg)= total supply
 
+__[_Source_](https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c)__
+
 ## Calculation of the Rarity Labels
 
 Rarity labels founded by tokens overall rarity;
