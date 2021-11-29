@@ -6,7 +6,6 @@
 * [Tokenomics](tokenomics.md)
 * [Marketplace](marketplace.md)
 * [Roadmap](roadmap.md)
-* [Team](team.md)
 * [Contact](contact.md)
 
 ## Guides
