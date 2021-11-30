@@ -2,6 +2,8 @@
 
 Burning Zombies have three milestones; the start of the minting, the burning, and the launch of the marketplace.
 
+![](.gitbook/assets/roadmap-black.png)
+
 ### Starting of the Minting
 
 ****:date: **Date: TBA**
@@ -10,7 +12,7 @@ Zombies awaken! The minting is limited by time, and you need to be careful not t
 
 ### Starting of the Burning
 
-****:date:** Date: End of the minting**
+****:date: **Date: End of the minting**
 
 Nothing can go forever! When minting is finished, there may be zombies which are not controllable (unclaimed). Our task is as a community to burn them. Also, to claim rewards and start the market, we have to burn all unminted zombies.
 
