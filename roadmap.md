@@ -2,7 +2,7 @@
 
 Burning Zombies have three milestones; the start of the minting, the burning, and the launch of the marketplace.
 
-![](.gitbook/assets/roadmap-black.png)
+![Roadmap Infographic](.gitbook/assets/roadmap-black.png)
 
 ### Starting of the Minting
 
