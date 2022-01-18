@@ -11,4 +11,4 @@ Those restrictions were planned to save the minters' passive income. It prevents
 
 When time is over, the rest of the tokens will be available for everyone to burn. Burning Zombies aimed at the community; everybody can burn the unclaimed token. It's a fast way to claim rewards. You don't have to wait for the contract owner for the burning process. The rewards are distributed to the community when the token is burned. After the burning of the last token, rewards will be claimable.
 
-Burning Zombies uses a different system than Ponzi reflection methods in the market. Rewards cannot be looted by the first minters, which is not fair; instead, the community receives dividends fairly. **The planned sale price is TBA $AVAX**; check the tokenomics section for more information about prices and reflection amounts..
+Burning Zombies uses a different system than Ponzi reflection methods in the market. Rewards cannot be looted by the first minters, which is not fair; instead, the community receives dividends fairly. **The planned sale price is TBA $AVAX**; check the tokenomics section for more information about prices and reflection amounts.
