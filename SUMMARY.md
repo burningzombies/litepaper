@@ -5,6 +5,7 @@
 * [Rarity](rarity.md)
 * [Tokenomics](tokenomics.md)
 * [Marketplace](marketplace.md)
+* [$BURN](usdburn.md)
 * [Roadmap](roadmap.md)
 * [Contact](contact.md)
 
