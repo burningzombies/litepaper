@@ -25,3 +25,8 @@ BURN will also be the native token for our p2e game, which will be released soon
 ### Farming
 
 Also, Zombies can farm the token to earn more and more...
+
+## Burning
+
+- Marketplace fees will use for the buy-back and burn.
+- ...
